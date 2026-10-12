@@ -56,3 +56,7 @@ missing module named pymysql - imported by sqlalchemy.dialects.mysql.aiomysql (d
 missing module named readline - imported by code (delayed, conditional, optional)
 missing module named pysqlcipher3 - imported by sqlalchemy.dialects.sqlite.pysqlcipher (delayed)
 missing module named sqlcipher3 - imported by sqlalchemy.dialects.sqlite.pysqlcipher (delayed, optional)
+missing module named png - imported by qrcode.compat.png (optional)
+missing module named numpy - imported by PIL._typing (conditional, optional)
+missing module named olefile - imported by PIL.FpxImagePlugin (top-level), PIL.MicImagePlugin (top-level)
+missing module named defusedxml - imported by PIL.Image (optional)
